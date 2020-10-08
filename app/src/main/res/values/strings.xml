@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EqualizerView</string>
+    <string name="bass">低音</string>
+    <string name="alto">中音</string>
+    <string name="high">高音</string>
+</resources>
